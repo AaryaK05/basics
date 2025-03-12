@@ -9,9 +9,20 @@ body{
 
 .box{
     background-color: white;  
-    margin: 0px 450px;
     padding: 5px;
     box-shadow: 10px 10px 10px -10px gray;
+    
+}
+
+.container{
+    width: 32%;
+    margin: 0 auto;
+    margin-top: 20px;
+    word-wrap: break-word; 
+    overflow-wrap: break-word; 
+    white-space: normal; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
 }
 
 h1{
@@ -19,12 +30,15 @@ h1{
 }
 
 .heading{
-    display: block;
+    /* display: block; */
     text-align: center;
     background-color: plum;
-    padding: 10px 10px;
-    border-radius: 5px;
-    margin:0px 450px;
+    padding: 10px;
+    color: white;
+    font-size: 2rem;
+    height: 50px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 input:checked +p{
@@ -35,6 +49,7 @@ input:checked +p{
 .item{
     display: flex;
     align-items: center;
+    
 }
 
 .item input{

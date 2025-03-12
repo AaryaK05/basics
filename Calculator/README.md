@@ -1,17 +1,8 @@
-# TODOEY - A Simple Task Manager(Static)
+# Calculator
 
 ## Overview
-TODOEY is a simple todo list application designed to help you manage your daily tasks and work-related activities. 
-
-
-
+The most weird looking calculator you'll find on github.
+![image](https://github.com/user-attachments/assets/0891fa95-4860-4e3f-8132-1af1668550ce)
 
 ## Technologies Used
-- Ejs
-- Node.js
-
-## Acknowledgments
-
-- Inspired by the to do list capstone project from udemy's 'The complete 2023 web development bootcamp'
----
-
+- HTML/CSS/JAVASCRIPT
